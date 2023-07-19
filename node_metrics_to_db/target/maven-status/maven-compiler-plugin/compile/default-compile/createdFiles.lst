@@ -1,1 +1,7 @@
+com\example\CustomNode.class
+com\example\NodepoolNodeMetricsFetcher.class
 com\example\App.class
+com\example\NodepoolDiscovery.class
+com\example\NodePoolTableChecker.class
+com\example\Nodepool.class
+com\example\NodeMetricsDBManager.class
